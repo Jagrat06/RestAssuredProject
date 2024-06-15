@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------------------------------------------
+To run from as Maven project from eclipse/any other IDE, we need to add two plugins (maven surefire and maven compiler), and give the testng File name
+--------------------------------------------------------------------------------------------------------------
+To run from CMD/Terminal, we need to install Maven at OS level, set path of of Maven bin folder that is downloaded
+----------------------------------------------------------------------------------------------------------------
+To run from CMD/Terminal
+1. go to location of your project (Type CD/project location)
+2. Type mvn test
